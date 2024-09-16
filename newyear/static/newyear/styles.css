@@ -1,0 +1,23 @@
+    .YES {
+        background-color: white;
+        height: 100vh;
+        width: 100vw;
+        color: black;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 900;
+        font-family: sans-serif;
+    }
+
+    .NO {
+        background-color: black;
+        height: 100vh;
+        width: 100vw;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 900;
+        font-family: sans-serif;
+    }
